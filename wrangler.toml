@@ -1,6 +1,9 @@
 name = "cloudflare-app"
 type = "javascript"
-account_id = ""
+account_id = "91ccd86d317cd4bf5edb9fdac08ab5be"
 workers_dev = true
 route = ""
 zone_id = ""
+
+[dev]
+port=8000
